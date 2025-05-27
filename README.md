@@ -1,6 +1,7 @@
 # Memory Match Game
 
 ### A dev themed matching game where users have 100 seconds to match all 16 cards in the least amount of flips possible
+Play demo at https://jmitch1132.github.io/memory-game/
 
 ![Alt text](image.png)
 
